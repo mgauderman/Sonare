@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7774244774238bb4393ed22185f1678a, type: 3}
+  m_Name: BlueGem
+  m_EditorClassIdentifier: 
+  note: 10
+  instrument: 0
+  itemName: New Item
+  icon: {fileID: 21300008, guid: 2666840ba2be4f047ad242d55f20cc26, type: 3}
+  itemPrefab: {fileID: 1777951793463908, guid: 28f5a12faf795954e9c24481b98c6723, type: 2}
+  pickupClip: {fileID: 8300000, guid: c7a0d77f8a783d146b1ecec724875e8c, type: 3}
+  emanatingClip: {fileID: 8300000, guid: ac712e7ce3771c0489ecfac52767edf8, type: 3}
+  weakClip: {fileID: 0}

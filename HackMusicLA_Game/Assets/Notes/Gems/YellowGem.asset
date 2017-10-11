@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7774244774238bb4393ed22185f1678a, type: 3}
+  m_Name: YellowGem
+  m_EditorClassIdentifier: 
+  note: 7
+  instrument: 0
+  itemName: New Item
+  icon: {fileID: 21300004, guid: 2666840ba2be4f047ad242d55f20cc26, type: 3}
+  itemPrefab: {fileID: 1654644809990964, guid: dea5014c9cc619c41add5505deb37d0e, type: 2}
+  pickupClip: {fileID: 8300000, guid: ce8e0400410b1ab4b8003c2deb3f6790, type: 3}
+  emanatingClip: {fileID: 8300000, guid: c10daa63c42ed314695b592f74649e87, type: 3}
+  weakClip: {fileID: 0}
