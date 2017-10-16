@@ -1289,6 +1289,27 @@ Transform:
   m_PrefabParentObject: {fileID: 4364230513647172, guid: 8dbb60e773a82534f91fc353c343bc77,
     type: 2}
   m_PrefabInternal: {fileID: 1284369280}
+--- !u!1 &979192688 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1777951793463908, guid: 28f5a12faf795954e9c24481b98c6723,
+    type: 2}
+  m_PrefabInternal: {fileID: 880440219}
+--- !u!114 &979192691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 979192688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bda45ad2441564b45889c2b2eed7d588, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue:
+    name: G Gem
+    sentences:
+    - "This is an G Note, the fifth of the Major Scale!\r"
+    - Try clicking a note gem in your inventory!
 --- !u!1001 &985198459
 Prefab:
   m_ObjectHideFlags: 0
@@ -1992,6 +2013,29 @@ Transform:
   m_Father: {fileID: 320852667}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1401348901 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1530232078639810, guid: a64f060f555d1f04da59a6bdefb7f300,
+    type: 2}
+  m_PrefabInternal: {fileID: 1111099536}
+--- !u!114 &1401348904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1401348901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bda45ad2441564b45889c2b2eed7d588, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue:
+    name: C Gem
+    sentences:
+    - This is a C Note, the first of the Major Scale!
+    - 'You can press ''i'' to see your inventory
+
+'
 --- !u!1 &1435926971
 GameObject:
   m_ObjectHideFlags: 0
@@ -2910,6 +2954,30 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2119457599 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1654644809990964, guid: dea5014c9cc619c41add5505deb37d0e,
+    type: 2}
+  m_PrefabInternal: {fileID: 347967914}
+--- !u!114 &2119457602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2119457599}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bda45ad2441564b45889c2b2eed7d588, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue:
+    name: E Gem
+    sentences:
+    - This is a E Note, the third of the Major Scale!
+    - 'Wow! It looks like you collected quite the combination of Notes. You can now
+      combine them to create a Chord. '
+    - Press 'c' to open your composition table. Bach will explain how to construct
+      a chord.
 --- !u!1 &2130031382
 GameObject:
   m_ObjectHideFlags: 0
